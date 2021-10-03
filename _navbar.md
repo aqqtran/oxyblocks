@@ -1,5 +1,3 @@
-<!-- _navbar.md -->
-
 * [Getting Started](/)
 
 * [Framework](framework.md)

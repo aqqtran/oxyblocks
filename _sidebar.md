@@ -1,3 +1,4 @@
-- Getting started
+- OxyBlocks
 
-  - [Quick Start](quickstart.md)
+  - [Getting started](/)
+  - [Framework](framework.md)

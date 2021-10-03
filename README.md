@@ -8,10 +8,15 @@ OxyBlocks is a collection of design sets for Oxygen Builder built on a custom fr
 - OxyBlocks are design sets made for [Oxygen Builder](https://oxygenbuilder.com/).
 - To be able to use OxyBlocks on your site, you need the [Asura Connector](https://wordpress.org/plugins/asura-connector/).
 
+The Asura Connector plugin has a few system requirements. Of course, all of these requirements are satisfied by the modern hosting, so it's highly recommended that you use modern hosting to run the Asura Connector plugin.
+You will need to make sure your server meets the following requirements:
+- PHP 7.4+
+- WordPress 5.5+
+
 ---
 
 # Getting started
 
-## Step 1 - Connecting the Asura Connector
+## Step 1 - Install the Asura Connector
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
