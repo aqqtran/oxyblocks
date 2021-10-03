@@ -273,7 +273,9 @@ See the framework in action [here](https://oxyblocks.com/framework)!
 
 ---
 
-# Position
+# Positioning
+
+## Position
 | Class      | Properties         |
 |------------|--------------------|
 | o-relative | position: relative;<br> |
@@ -282,7 +284,6 @@ See the framework in action [here](https://oxyblocks.com/framework)!
 | o-sticky   | position: sticky;<br>   |
 
 
-## Absolute positioning
 ## Top
 | Class   | Properties   |
 |---------|--------------|
@@ -701,7 +702,7 @@ See the framework in action [here](https://oxyblocks.com/framework)!
 | o-r-8    | border-radius: 4rem;<br> overflow: hidden;<br>    |
 | o-r-full | border-radius: 99999px;<br> overflow: hidden;<br> |
 
-## All sides size
+## All sides width
 | Class | Properties                           |
 |-------|--------------------------------------|
 | o-b-1 | border-style: solid;<br>border-width: 1px;<br> |
@@ -713,7 +714,7 @@ See the framework in action [here](https://oxyblocks.com/framework)!
 | o-b-7 | border-style: solid;<br>border-width: 7px;<br> |
 | o-b-8 | border-style: solid;<br>border-width: 8px;<br> |
 
-## Top size
+## Top width
 | Class  | Properties                               |
 |--------|------------------------------------------|
 | o-bt-1 | border-top-style: solid;<br>border-width: 1px;<br> |
@@ -725,7 +726,7 @@ See the framework in action [here](https://oxyblocks.com/framework)!
 | o-bt-7 | border-top-style: solid;<br>border-width: 7px;<br> |
 | o-bt-8 | border-top-style: solid;<br>border-width: 8px;<br> |
 
-## Right size
+## Right width
 | Class  | Properties                                 |
 |--------|--------------------------------------------|
 | o-br-1 | border-right-style: solid;<br>border-width: 1px;<br> |
@@ -737,7 +738,7 @@ See the framework in action [here](https://oxyblocks.com/framework)!
 | o-br-7 | border-right-style: solid;<br>border-width: 7px;<br> |
 | o-br-8 | border-right-style: solid;<br>border-width: 8px;<br> |
 
-## Bottom size
+## Bottom width
 | Class  | Properties                                  |
 |--------|---------------------------------------------|
 | o-bb-1 | border-bottom-style: solid;<br>border-width: 1px;<br> |
@@ -749,7 +750,7 @@ See the framework in action [here](https://oxyblocks.com/framework)!
 | o-bb-7 | border-bottom-style: solid;<br>border-width: 7px;<br> |
 | o-bb-8 | border-bottom-style: solid;<br>border-width: 8px;<br> |
 
-## Left size
+## Left width
 | Class  | Properties                                |
 |--------|-------------------------------------------|
 | o-bl-1 | border-left-style: solid;<br>border-width: 1px;<br> |
