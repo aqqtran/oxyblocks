@@ -1,7 +1,7 @@
-* [Getting Started](#/)
+* [Getting Started](/)
 
-* [Framework](#/framework.md)
+* [Framework](/framework.md)
 
-* [FAQ](#/faq.md)
+* [FAQ](/faq.md)
 
 * [Return to OxyBlocks](https://oxyblocks.com)
