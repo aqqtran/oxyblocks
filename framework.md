@@ -672,6 +672,18 @@ See the framework in action [here](https://oxyblocks.com/framework)!
 | o-gb-7 | box-sizing: border-box;<br>background-clip: padding-box;<br>background-color: disabled;<br>position: relative;<br>border-color: transparent;<br>border-style: solid;<br>border-width: 7px;<br> | o-gb-7: before | border-radius: inherit;<br>margin: -7px;<br> |
 | o-gb-8 | box-sizing: border-box;<br>background-clip: padding-box;<br>background-color: disabled;<br>position: relative;<br>border-color: transparent;<br>border-style: solid;<br>border-width: 8px;<br> | o-gb-8: before | border-radius: inherit;<br>margin: -8px;<br> |
 
+## Border
+| Class  | Properties                                                                                                                                                   | : before       | : before properties                 |
+|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|------------------------------------|
+| o-gb-1 | box-sizing: border-box;<br>background-clip: padding-box;<br>background-color: disabled;<br>position: relative;<br>border-color: transparent;<br>border-style: solid;<br>border-width: 1px;<br> | o-gb-1: before | border-radius: inherit;<br>margin: -1px;<br> |
+| o-gb-2 | box-sizing: border-box;<br>background-clip: padding-box;<br>background-color: disabled;<br>position: relative;<br>border-color: transparent;<br>border-style: solid;<br>border-width: 2px;<br> | o-gb-2: before | border-radius: inherit;<br>margin: -2px;<br> |
+| o-gb-3 | box-sizing: border-box;<br>background-clip: padding-box;<br>background-color: disabled;<br>position: relative;<br>border-color: transparent;<br>border-style: solid;<br>border-width: 3px;<br> | o-gb-3: before | border-radius: inherit;<br>margin: -3px;<br> |
+| o-gb-4 | box-sizing: border-box;<br>background-clip: padding-box;<br>background-color: disabled;<br>position: relative;<br>border-color: transparent;<br>border-style: solid;<br>border-width: 4px;<br> | o-gb-4: before | border-radius: inherit;<br>margin: -4px;<br> |
+| o-gb-5 | box-sizing: border-box;<br>background-clip: padding-box;<br>background-color: disabled;<br>position: relative;<br>border-color: transparent;<br>border-style: solid;<br>border-width: 5px;<br> | o-gb-5: before | border-radius: inherit;<br>margin: -5px;<br> |
+| o-gb-6 | box-sizing: border-box;<br>background-clip: padding-box;<br>background-color: disabled;<br>position: relative;<br>border-color: transparent;<br>border-style: solid;<br>border-width: 6px;<br> | o-gb-6: before | border-radius: inherit;<br>margin: -6px;<br> |
+| o-gb-7 | box-sizing: border-box;<br>background-clip: padding-box;<br>background-color: disabled;<br>position: relative;<br>border-color: transparent;<br>border-style: solid;<br>border-width: 7px;<br> | o-gb-7: before | border-radius: inherit;<br>margin: -7px;<br> |
+| o-gb-8 | box-sizing: border-box;<br>background-clip: padding-box;<br>background-color: disabled;<br>position: relative;<br>border-color: transparent;<br>border-style: solid;<br>border-width: 8px;<br> | o-gb-8: before | border-radius: inherit;<br>margin: -8px;<br> |
+
 ---
 
 # Border
